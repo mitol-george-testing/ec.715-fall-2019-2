@@ -1,0 +1,44 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Aquatic Sciences and Water Quality Control"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c4df01fb-2d88-fe7a-e321-70e7da8d58c8",
+      "3e8545c0-a6a1-15ed-f0d1-197f0ed25dbf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "D-Lab: Water, Sanitation, and Hygiene",
+  "course_description": "This course focuses on disseminating Water, Sanitation and Hygiene (WASH) or water/environment innovations in developing countries and underserved communities worldwide. It emphasizes core WASH and water/environment principles, culture-specific solutions, tools for start-ups, appropriate and sustainable technologies, behavior change, social marketing, building partnerships, and the theory and practice of innovation diffusion.\n",
+  "department_numbers": [
+    "EC",
+    "11"
+  ],
+  "extra_course_numbers": "11.474",
+  "primary_course_number": "EC.715",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
